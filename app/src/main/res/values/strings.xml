@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SQL App</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="marks">Marks</string>
+    <string name="id">id</string>
+    <string name="add_data">ADD DATA</string>
+    <string name="view_all">VIEW ALL</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="enter_id">Enter id</string>
+    <string name="enter_marks">Enter marks</string>
+    <string name="enter_surname">Enter surname</string>
+    <string name="enter_name">Enter name</string>
+</resources>
